@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image:radial-gradient(pink,grey)
+    
+
+}
+.exbtn{
+    width:6vh;
+    height:6vh;
+    background-color: white;
+    border-radius: 30vh;
+    position: -1 !important;
+}
+.exbtnn{
+    width:13vh;
+    height:6vh;
+    background-color: white;
+    border-radius: 30vh;
+    position: -1 !important;
+}
+#result{
+    height:6vh;
+}
+#ss{
+border:brown;
+}
+.border{
+color: brown;
+}
